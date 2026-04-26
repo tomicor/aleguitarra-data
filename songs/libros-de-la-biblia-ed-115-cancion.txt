@@ -1,0 +1,56 @@
+{title: Libros de la Biblia}
+
+
+
+[C]Génesis Éxodo Levítico Números
+
+[Dm]Deuteronomio Josu[G]é Jueces Rut
+
+[C]Uno y Dos Samuel, Uno y Dos de Reyes
+
+[F]Uno y Dos de C[G]rónic[C]a[A7]s
+
+
+[D]Esdras Nehemías Ester y Job
+
+[Em]Salmos Proverbios [A]Eclesiastés
+
+[D]Cantares Isaías Jeremías
+
+[G]Y Lame[A.]ntacio[D]ne[B7]s
+
+
+[E]Ezequiel Daniel Oseas Joel
+
+[F#m]Amós Abdías Jo[A]nás Miqueas
+
+N[E]ahúm Habacuc y Sofonías
+
+[A]Hageo Sac[B]arías Mala[E]quía[C7]s
+
+
+[F]Mateo Marcos Lucas Juan
+
+[Gm]Hechos [Bb]Romanos
+
+P[F]rimera y Segunda Corintios
+
+[Bb]Gálatas[C] y Efe[F]sio[D7]s
+
+
+[G]Filipenses Colosenses
+
+[Am]Primera y Segunda Tesalonisenses
+
+[G]Primera y segunda de Timoteo
+
+[C]Tito y[D] Filem[G]ó[E7]n
+
+
+[A]Hebreos Santiago
+
+[Bm]Primera y segunda de Pedro
+
+[A]Primera Segunda y Tercera de Juan
+
+[D]Judas y [E]Apocali[A]psis
