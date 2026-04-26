@@ -1,5 +1,6 @@
 {title: ¿Cómo podré estar triste? (396)}
 
+
 [A]¿Cómo podré estar triste,
 [D]cómo entre sombras[A] ir,
 [F#]cómo s[F#7]entirme [Bm]solo,
@@ -11,11 +12,13 @@ s[E]eguro asilo [A]en Él,
 si a[A]un las[A/G] aves t[F#m]iene[Dm/F]n
 [A]seguro[E] asilo e[A]n Él?
 
+
 coro 
 F[E]eliz, cantand[A]o alegre,
 yo [E]vivo siempre[A] aquí.
 Si [A]Él cui[A/G]da de l[F#m]as av[Dm/F]es,
 [A]cuidar[E]á tambi[A]én de mí.
+
 
 [A]«Nunca te desalientes»,
 [D]oigo al Señor dec[A]ir;
@@ -28,11 +31,13 @@ p[E]or siempre [A]me ha de dar,
 y to[A]das [A/G]sus b[F#m]onda[Dm/F]des
 por si[A]empre m[E]e ha d[A]e dar.
 
+
 coro 
 F[E]eliz, cantand[A]o alegre,
 yo [E]vivo siempre[A] aquí.
 Si [A]Él cui[A/G]da de l[F#m]as av[Dm/F]es,
 [A]cuidar[E]á tambi[A]én de mí.
+
 
 [A]Siempre que soy tentado,
 [D]o que en la prueba [A]estoy,
@@ -44,6 +49,7 @@ y caigo en la ansied[D]ad,
 m[E]e da seguri[A]dad!
 ¡Ta[A]n sól[A/G]o Él me [F#m]levan[Dm/F]ta;
 [A]me da [E]segurid[A]ad!
+
 
 coro 
 F[E]eliz, cantand[A]o alegre,

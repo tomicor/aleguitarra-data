@@ -1,6 +1,7 @@
 {title: Bienvenidos}
 
 
+
 [C]¡Bienve[F]nidos!  ¡Bien[C]veni[Am]dos!
 
 [Dm]La escu[G]elita de aquí[C], se compl[C7]ace

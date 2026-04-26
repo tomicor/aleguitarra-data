@@ -1,11 +1,13 @@
 {title: Perder los bienes es mucho}
 
+
 [E]Perder los bienes es [B7]mucho
 [E]perder la salud es [A]más,
 pe[A7]rder el alma es [E]pérdid[C#m]a tal
 que [F#m]no se re[B7]cobra j[E7]amás
 pe[A7]rder el alma es [E]pérdid[C#m]a tal
 qu[F#m]e no se r[B7]ecobra ja[E]más
+
 
 [E]Ganar dinero es muc[B7]ho
 [E]ganar la salud es [A]más

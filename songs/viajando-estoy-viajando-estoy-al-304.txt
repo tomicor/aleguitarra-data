@@ -1,6 +1,7 @@
 {title: Viajando estoy}
 
 
+
 [E]Viajando estoy, viajando estoy,
 
 [B7]voy a la pat[E]ria celestial.
@@ -12,6 +13,7 @@ l[B7]a bienveni[E]da me dará.
 Y[E] al ver las [A]marcas [B7]que en la cruz
 
 [E]su santo cuerpo recibió,
+
 
 
 será mi gozo y mi canción,

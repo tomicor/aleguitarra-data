@@ -1,6 +1,7 @@
 {title: Alabanza y honor}
 
 
+
  [F#m7]Tu sangre me redimió ,
 
  [A]para darme la luz, y la paz
@@ -18,6 +19,7 @@
 [Esus4] mi can[E]to levantaré
 
 
+
  //[F#m7]alabanza y h[A]onor,[D] poder y [E]gloria
 
  [F#m7]al Corder[A]o de Dio[D]s al León [E]de Judá.
@@ -25,6 +27,7 @@
  [F#m7]al único digno de[E] honra
 
  [F#m7]Jesucristo mi Rey y S[E]eñor//
+
 
 
 [D]Anciano de d[Bm7]ías te quiero exaltar

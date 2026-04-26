@@ -1,9 +1,11 @@
 {title: Busco por aquí, busco por allá}
 
+
 [E]Busco por a[C#m]quí,   [E]  busco por [G#m]allá
 [A]Algo tan v[F#m]alioso como [Bsus4]nadie pudo a[B]llar
 [E]Y en la Biblia al [C#m]fin, p[E]uedo descu[G#m]brir
 [A]Son esas pr[F#m]omesas que [Bsus4]Jesús me hizo [B]a mí
+
 
 Me prom[A]etió la salva[B]ción
 Me prome[G#m]tió conmigo est[C#]ar

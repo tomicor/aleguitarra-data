@@ -1,9 +1,11 @@
 {title: ¡Qué grande carga, oh Salvador! (516)}
 
+
 ¡Q[D]ué grande [Bm7]carga, oh[G] Salv[D]ador,
 [D]llevast[Bm7]e Tú por [A]mí!
 [D]Prueba [D/F#]suprema[G] de tu a[D]mor,
 [G]sufriendo a[D]fre[A7]ntas [D]mil.
+
 
 coro 
 [A]Nunca m[A7]e olvi[D]daré de Ti,
@@ -11,14 +13,6 @@ coro 
 [Bm7]ni del [F#7]Calvari[G]o do p[D/F#]or mí
 [G]sufriste, o[D]h S[A7]alv[D]ador.
 
-[D] [Bm7] [G] [D]
-[D] [Bm7] [A]
-[D] [D/F#] [G] [D]
-[G]coro[D] [A7 D]
-[A]Nunca m[A7]e olvi[D]daré de Ti,
-[A]de tu ag[A7]onía en G[D]etsemaní,
-[Bm7]ni del [F#7]Calvari[G]o do p[D/F#]or mí
-[G]sufriste, o[D]h S[A7]alv[D]ador.
 
 [D] [Bm7] [G] [D]
 [D] [Bm7] [A]
@@ -29,18 +23,38 @@ coro 
 [Bm7]ni del [F#7]Calvari[G]o do p[D/F#]or mí
 [G]sufriste, o[D]h S[A7]alv[D]ador.
 
+
 [D] [Bm7] [G] [D]
+
 [D] [Bm7] [A]
+
 [D] [D/F#] [G] [D]
+
 [G]coro[D] [A7 D]
 [A]Nunca m[A7]e olvi[D]daré de Ti,
 [A]de tu ag[A7]onía en G[D]etsemaní,
 [Bm7]ni del [F#7]Calvari[G]o do p[D/F#]or mí
 [G]sufriste, o[D]h S[A7]alv[D]ador.
 
+
 [D] [Bm7] [G] [D]
 [D] [Bm7] [A]
+
 [D] [D/F#] [G] [D]
+
+[G]coro[D] [A7 D]
+[A]Nunca m[A7]e olvi[D]daré de Ti,
+[A]de tu ag[A7]onía en G[D]etsemaní,
+[Bm7]ni del [F#7]Calvari[G]o do p[D/F#]or mí
+[G]sufriste, o[D]h S[A7]alv[D]ador.
+
+
+[D] [Bm7] [G] [D]
+
+[D] [Bm7] [A]
+
+[D] [D/F#] [G] [D]
+
 [G]coro[D] [A7 D]
 [A]Nunca m[A7]e olvi[D]daré de Ti,
 [A]de tu ag[A7]onía en G[D]etsemaní,

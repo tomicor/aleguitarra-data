@@ -1,11 +1,14 @@
 {title: Adentro afuera arriba abajo}
 
 
+
 [D]Adentro, afuera, arriba, abajo
 q[A7]ue feliz que estoy
 
+
 Adentro, afuera, arriba,
 [D]abajo que feliz que estoy
+
 
 pues Cristo me salvó
 [G]y mi

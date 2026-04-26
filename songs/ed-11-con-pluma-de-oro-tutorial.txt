@@ -1,9 +1,11 @@
 {title: Con pluma de oro}
 
 
+
 [E]Con
 pluma de oro escrito está
 es[B7]crito está e[E]scrito está.
+
 
 Con pluma de oro escrito
 está

@@ -1,6 +1,7 @@
 {title: Hoy soy feliz}
 
 
+
 Hoy soy
 feliz  ( Hoy soy feliz)
 
@@ -25,6 +26,7 @@ evitar
 y[B7] mi vida
 será para siempre [E]ca[A]nta[E]r
 
+
 Yo quiero
 siempre alabar a Dios
 
@@ -34,6 +36,7 @@ siempre alabar a Dios
 cosas que siempre nos da
 
 [E]cuan grande es mi Dios
+
 
 
 No importa

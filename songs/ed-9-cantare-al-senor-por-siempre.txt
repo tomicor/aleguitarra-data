@@ -1,6 +1,7 @@
 {title: Cantaré al Señor por siempre PISTA}
 
 
+
 /[Dm]Cantaré al Señor por[C] siempre,
 
 [A7]Su diestra es to[Dm]do poder/
@@ -10,4 +11,5 @@
 [Dm]La la lalalalá  la l[C]a lalalalá, la [A7]la la la lala[Dm]lalá
 [Dm]/Mi Padre es [A7]Dios y yo le [Dm]exalto
 Mi [C]Padre es Dios [Dm]y le exaltaré/
+
 Echó a la mar...

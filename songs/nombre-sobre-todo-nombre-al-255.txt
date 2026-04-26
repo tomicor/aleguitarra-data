@@ -1,6 +1,7 @@
 {title: Nombre sobre todo nombre}
 
 
+
 [E]Nombre [C#m]sobre[F#m B7]
 todo nombre 
 
@@ -9,6 +10,7 @@ de mi Cristo,[B7]
 
 [E]ante t[C#m]an
 precioso nom[F#m]bre,[B7] 
+
 
 
 todos se
