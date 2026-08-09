@@ -1,1 +1,1 @@
-{"edit_password_hash": "c72f9c4a6fa7c8b497d47ff4610e91313ae055f2d8dbfd07c0643bae05ff19dd"}
+{"_nota":"El hash de la contrasena se saco a proposito: este archivo es publico y cualquiera podia probarle diccionarios offline. La web valida contra la Edge Function y la app usa su copia interna."}
